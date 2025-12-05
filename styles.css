@@ -1,4 +1,4 @@
-/* style.css */
+/* styles.css */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -10,7 +10,7 @@ body {
 .hero {
   text-align: center;
   padding: 100px 20px;
-  background-color: #a52a2a;
+  background-color: #ffffff;
 }
 
 .cta {
